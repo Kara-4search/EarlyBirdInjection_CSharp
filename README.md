@@ -10,14 +10,14 @@ Blog link: working on it
 	3. Each thread has a queue that stores all the APCs
 	4. Application can queue an APC to a given thread (subject to privileges)
 	5. **When a thread is scheduled, queued APCs get executed.**
-	6. Disadvantage of this technique is that the malicious program cannot force the victim thread to execute the injected code - the thread to which an APC was queued to, needs to enter/be in an alertable state (i.e SleepEx), but you may want to check out Shellcode Execution in a Local Process with QueueUserAPC and NtTestAlert
+	6. Disadvantage of this technique is that the malicious program cannot force the victim thread to execute the injected code - the thread to which an APC was queued to, needs to enter/be in an alert state (i.e SleepEx), but you may want to check out Shellcode Execution in a Local Process with QueueUserAPC and NtTestAlert
 	
 - Steps
 	1. Find process id.
-	2. Openprocess 
+	2. Open process 
 	3. Allocate memory into process memory space.
 	4. Write shellcode into the process memory space.
-	5. Create thread with suspended state.
+	5. Create a thread with a suspended state.
 	6. Queue an APC to the threads.
 	7. ResumeThread.
 	
