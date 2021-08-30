@@ -1,0 +1,7 @@
+C:\Project\Projects\Project_EarlyBirdInjection\EarlyBirdInjection\EarlyBirdInjection\bin\x86\Debug\EarlyBirdInjection.exe.config
+C:\Project\Projects\Project_EarlyBirdInjection\EarlyBirdInjection\EarlyBirdInjection\bin\x86\Debug\EarlyBirdInjection.exe
+C:\Project\Projects\Project_EarlyBirdInjection\EarlyBirdInjection\EarlyBirdInjection\bin\x86\Debug\EarlyBirdInjection.pdb
+C:\Project\Projects\Project_EarlyBirdInjection\EarlyBirdInjection\EarlyBirdInjection\obj\x86\Debug\EarlyBirdInjection.csprojAssemblyReference.cache
+C:\Project\Projects\Project_EarlyBirdInjection\EarlyBirdInjection\EarlyBirdInjection\obj\x86\Debug\EarlyBirdInjection.csproj.CoreCompileInputs.cache
+C:\Project\Projects\Project_EarlyBirdInjection\EarlyBirdInjection\EarlyBirdInjection\obj\x86\Debug\EarlyBirdInjection.exe
+C:\Project\Projects\Project_EarlyBirdInjection\EarlyBirdInjection\EarlyBirdInjection\obj\x86\Debug\EarlyBirdInjection.pdb
